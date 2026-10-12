@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Physics-Guided Deep Learning for Seismic Fault Detection
 
 Code for *"Physics-Guided Deep Learning for Seismic Fault Detection Using
@@ -95,3 +96,7 @@ Detection Using Migrated Marmousi-II Data. Arabian Journal of Geosciences
 
 Abdelhakim Zeghichi — abdelhakimzeghichi@gmail.com
 College of Geophysics and Geomatics, Chang'an University, Xi'an, China
+=======
+# physics-guided-seismic-fault
+Code and scripts for physics-guided seismic fault detection on Marmousi-II
+>>>>>>> e745eb56a30002de49f6355592142a8552fc012e
